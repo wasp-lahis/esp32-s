@@ -19,6 +19,7 @@ idf.py menuconfig (choose GPIO2, please!)
 idf.py build
 ls /dev/tty*
 idf.py -p /dev/tty/USB0 flash monitor
+Ctrl+] (exit the program)
 ```
 
 ### !!! Issues
