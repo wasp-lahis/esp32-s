@@ -1,6 +1,8 @@
 # esp32-s
 Repository to study ESP32 board functionalities.
 
+![ESP-WROOM-32](./esp32-wroom-pinout)
+
 ## Get Started with ESP-IDF
 
 - [Install, build and flash](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html)
