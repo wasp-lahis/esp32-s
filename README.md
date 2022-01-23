@@ -14,7 +14,7 @@ cp -r $IDF_PATH/examples/get-started/blink .
 
 cd ~/esp/blink
 idf.py set-target esp32
-idf.py menuconfig
+idf.py menuconfig (choose GPIO2, please!)
 
 idf.py build
 ls /dev/tty*
@@ -29,4 +29,8 @@ sudo usermod -a -G tty yourname
 sudo usermod -a -G dialout yourname
 
 ... and you have to logout/login to get group addition happens.
+```
+or type:
+``` bash
+sudo chmod a+rw /dev/ttyUSB0
 ```
