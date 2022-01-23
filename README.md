@@ -22,7 +22,7 @@ idf.py -p /dev/tty/USB0 flash monitor
 Ctrl+] (exit the program)
 ```
 
-### !!! Issues
+### :exclamation::boom: Issues
 -  [Permission denied tty](https://github.com/esp8266/source-code-examples/issues/26)
 ```
 groups
