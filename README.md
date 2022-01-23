@@ -35,3 +35,9 @@ or type:
 ``` bash
 sudo chmod a+rw /dev/ttyUSB0
 ```
+
+# Support Material - Videos
+- [Get started with ESP-IDF](https://www.youtube.com/watch?v=7-hJGuJMrY0) (linha de comando)
+- Get started with ESP-IDF VS Code Extension 
+  - [Pedro Minatel](https://www.youtube.com/watch?v=yvbeDSDY73Y) (more complete)
+  - [Fabio Souza](https://www.youtube.com/watch?v=rxMg_zxO0q0) (more objective)
